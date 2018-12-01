@@ -17,7 +17,7 @@ for i in range(5):
     else:
         print("Not an odd minute.")
     
-    sleepTime = randint(1, 60)
-    print(sleepTime)
+    wait_ime = randint(1, 60)
+    print(wait_ime)
 
-    sleep(sleepTime)
+    sleep(wait_ime)
