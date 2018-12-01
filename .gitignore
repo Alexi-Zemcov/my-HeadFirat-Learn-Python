@@ -1,0 +1,4 @@
+OTHER
+*.pyc
+*~
+__pycache__
